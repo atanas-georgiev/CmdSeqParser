@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+    <Global>		
+		<InputParameterFolder>D:\Projects\35up\3_Software_Specification_Binder\Herstellerdaten\C2-HW DFE</InputParameterFolder>
+		<InputSequenceFolder>D:\default</InputSequenceFolder>
+		<OutputFolder>d:\Output</OutputFolder>
+		<ParameterVersionMajor>5</ParameterVersionMajor>
+		<ParameterVersionMinor>43</ParameterVersionMinor>
+    </Global>
+	<Variants>
+		<Variant>default</Variant>		
+		<Variant>IC MID EVO BENZIN ECE LL MIT HUD</Variant>	
+		<Variant>IC MID EVO BENZIN ECE LL MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO BENZIN ECE LL OHNE HUD</Variant>	
+		<Variant>IC MID EVO BENZIN ECE LL OHNE HUD OABR</Variant>	
+		<Variant>IC MID EVO BENZIN MPH MIT HUD</Variant>	
+		<Variant>IC MID EVO BENZIN MPH MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO BENZIN MPH OHNE HUD</Variant>	
+		<Variant>IC MID EVO BENZIN MPH OHNE HUD OABR</Variant>	
+		<Variant>IC MID EVO DIESEL ECE LL MIT HUD</Variant>	
+		<Variant>IC MID EVO DIESEL ECE LL MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO DIESEL ECE LL OHNE HUD</Variant>	
+		<Variant>IC MID EVO DIESEL ECE LL OHNE HUD OABR</Variant>	
+		<Variant>IC MID EVO DIESEL MPH MIT HUD</Variant>	
+		<Variant>IC MID EVO DIESEL MPH MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO DIESEL MPH OHNE HUD</Variant>	
+		<Variant>IC MID EVO DIESEL MPH OHNE HUD OABR</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN ECE LL MIT HUD</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN ECE LL MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN ECE LL OHNE HUD</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN ECE LL OHNE HUD OABR</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN MPH MIT HUD</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN MPH MIT HUD OABR</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN MPH OHNE HUD</Variant>	
+		<Variant>IC MID EVO HYBRID BENZIN MPH OHNE HUD OABR</Variant>	
+		<Variant>PRODUCTION</Variant>			
+	</Variants>
+</Config>
+	
